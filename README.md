@@ -1,1 +1,3 @@
-# leetcode
+# leetcode刷题记录
+*两数之和
+2018.11.7
