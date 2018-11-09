@@ -1,5 +1,6 @@
-# leetcode刷题记录
+# LeetCode刷题记录
 
-time|problem|finished
----|:--:|---:
-2018.11.7|twoSum|~~2018.11.7~~
+No.|Problem|Author|Time|Lang
+:--|:--:|:--:|:--:|:--:
+0|TwoSum|Eyeteebe|2018.11.7|C++
+1|AddTwoNumber|Eyeteebe|2018.11.9|Python3
